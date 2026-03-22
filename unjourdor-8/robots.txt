@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://un-jour-dor.netlify.app/sitemap.xml
